@@ -1,0 +1,7 @@
+Express - By setting up an Express server, it provides a way to handle HTTP requests.
+
+Middleware - Body-parser middleware parses JSON in the request body
+
+Array - Used an array to store items to act as a database
+
+Routes - Created routes for creating (POST /api/data), reading (GET /api/data), updating (PATCH /api/data/:id), and deleting (DELETE /api/data/:id) data.
